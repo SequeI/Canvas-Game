@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: black;
+    margin-top: 3em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1, p, a {
+    color: wheat;
+    padding-top: 4em;
+    margin: 0 auto;
+    width: 30%;
+    font-size: 25px;
+    text-align: center;
+}
